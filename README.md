@@ -82,6 +82,8 @@ python3 /path/to/task-manager/team_tasks.py --registry /path/to/team-work/regist
 
 Obsidian에서 해당 vault의 `TeamTasks/Home.md`를 엽니다. 프로젝트·업무·문서 트리, 선후행 링크, 일정표와 담당·상태를 볼 수 있습니다. 원본 snapshot은 Git 동기화 후 읽습니다. vault는 업무 전용 Git 저장소 밖에 두거나 생성 폴더를 Git에서 제외합니다. 생성기는 `TeamTasks/` 안의 자신이 생성한 파일만 갱신하며 기존 노트와 충돌하면 중단합니다. **생성 문서 편집은 원본에 반영되지 않습니다.** 업무는 Codex/CLI에서 수정한 뒤 다시 내보냅니다.
 
+Windows용 Obsidian과 WSL을 함께 쓰면 조회 vault는 Windows 드라이브에 둡니다. 예를 들어 WSL에서 `export /mnt/c/Obsidian/TaskManager`를 실행하고, Obsidian에서는 `C:\Obsidian\TaskManager`를 보관함으로 엽니다. `\\wsl.localhost\...` 폴더를 열 때 `EISDIR ... watch` 오류가 나면 [Windows·WSL 사용 안내](docs/obsidian-windows.md)를 따르세요.
+
 ## 검증
 
 ```bash
