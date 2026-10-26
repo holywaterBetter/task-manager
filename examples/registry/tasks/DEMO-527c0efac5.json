@@ -1,0 +1,27 @@
+{
+  "assignee": null,
+  "contributions": {},
+  "created_at": "2026-10-26T14:13:01.767557+00:00",
+  "depends_on": [],
+  "description": "",
+  "doc_ids": [
+    "DEMO-D-12e78500bf"
+  ],
+  "due_date": null,
+  "estimate": 1,
+  "evidence": [],
+  "id": "DEMO-527c0efac5",
+  "kind": "story",
+  "parent": "DEMO-a03b1b5c67",
+  "plan": "",
+  "priority": 3,
+  "project": "DEMO",
+  "prompt": "",
+  "result": "",
+  "start_date": null,
+  "status": "backlog",
+  "title": "두 개발자가 업무 맥락을 공유한다",
+  "updated_at": "2026-10-26T14:13:01.767557+00:00",
+  "version": 1,
+  "weight": 1
+}

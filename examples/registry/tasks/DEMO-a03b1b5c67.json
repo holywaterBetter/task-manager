@@ -1,0 +1,27 @@
+{
+  "assignee": null,
+  "contributions": {},
+  "created_at": "2026-10-26T14:13:01.744532+00:00",
+  "depends_on": [],
+  "description": "",
+  "doc_ids": [
+    "DEMO-D-d02129c4c3"
+  ],
+  "due_date": null,
+  "estimate": 1,
+  "evidence": [],
+  "id": "DEMO-a03b1b5c67",
+  "kind": "epic",
+  "parent": null,
+  "plan": "",
+  "priority": 3,
+  "project": "DEMO",
+  "prompt": "",
+  "result": "",
+  "start_date": null,
+  "status": "backlog",
+  "title": "Codex 협업 기반 마련",
+  "updated_at": "2026-10-26T14:13:01.744532+00:00",
+  "version": 1,
+  "weight": 1
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "team-task-manager"
+version = "0.2.0"
+description = "Internal team task and knowledge registry for coding agents"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+team-tasks = "task_manager.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["task_manager*"]

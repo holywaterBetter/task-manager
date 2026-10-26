@@ -1,0 +1,62 @@
+{
+  "action": "task.update",
+  "actor": "alice",
+  "after": {
+    "assignee": "alice",
+    "contributions": {
+      "alice": 0.6,
+      "colleague": 0.4
+    },
+    "created_at": "2026-10-26T14:13:01.792811+00:00",
+    "depends_on": [],
+    "description": "",
+    "doc_ids": [],
+    "due_date": "2026-10-27",
+    "estimate": 2,
+    "evidence": [
+      "demo:synthetic-fixture; 실제 테스트·PR 근거 아님"
+    ],
+    "id": "DEMO-c478ede5bd",
+    "kind": "task",
+    "parent": "DEMO-527c0efac5",
+    "plan": "필드 정의 → 충돌 시나리오 검토 → 검증 근거 남기기",
+    "priority": 1,
+    "project": "DEMO",
+    "prompt": "작업 계층, 의존성, 프롬프트·계획·결과의 공유 형식을 정의한다.",
+    "result": "샘플 결과: 업무·지식별 JSON과 Git 공유 절차를 선택했습니다. 실제 검토 결과가 아닙니다.",
+    "start_date": "2026-10-26",
+    "status": "done",
+    "title": "공유 형식 검토 (샘플 완료)",
+    "updated_at": "2026-10-26T14:13:01.840284+00:00",
+    "version": 3,
+    "weight": 3
+  },
+  "at": "2026-10-26T14:13:01.840939+00:00",
+  "before": {
+    "assignee": "alice",
+    "contributions": {},
+    "created_at": "2026-10-26T14:13:01.792811+00:00",
+    "depends_on": [],
+    "description": "",
+    "doc_ids": [],
+    "due_date": "2026-10-27",
+    "estimate": 2,
+    "evidence": [],
+    "id": "DEMO-c478ede5bd",
+    "kind": "task",
+    "parent": "DEMO-527c0efac5",
+    "plan": "필드 정의 → 충돌 시나리오 검토 → 검증 근거 남기기",
+    "priority": 1,
+    "project": "DEMO",
+    "prompt": "작업 계층, 의존성, 프롬프트·계획·결과의 공유 형식을 정의한다.",
+    "result": "",
+    "start_date": "2026-10-26",
+    "status": "in_progress",
+    "title": "공유 형식 검토 (샘플 완료)",
+    "updated_at": "2026-10-26T14:13:01.816468+00:00",
+    "version": 2,
+    "weight": 3
+  },
+  "entity_id": "DEMO-c478ede5bd",
+  "id": "77d5b16a59c04ebbbe187f13bd591d21"
+}

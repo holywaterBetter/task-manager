@@ -1,0 +1,16 @@
+{
+  "action": "project.create",
+  "actor": "alice",
+  "after": {
+    "created_at": "2026-10-26T14:13:01.663378+00:00",
+    "description": "합성 예제입니다. 실제 ecode-skills 업무 완료나 성과를 나타내지 않습니다.",
+    "key": "DEMO",
+    "name": "Codex 협업 시범 과제 (샘플)",
+    "updated_at": "2026-10-26T14:13:01.663378+00:00",
+    "version": 1
+  },
+  "at": "2026-10-26T14:13:01.663570+00:00",
+  "before": null,
+  "entity_id": "DEMO",
+  "id": "7d6d68dc39aa47778eb0a8ee3147b438"
+}

@@ -1,0 +1,27 @@
+{
+  "assignee": null,
+  "contributions": {},
+  "created_at": "2026-10-26T14:13:01.918225+00:00",
+  "depends_on": [
+    "DEMO-cc4c47a7df"
+  ],
+  "description": "",
+  "doc_ids": [],
+  "due_date": "2026-11-02",
+  "estimate": 2,
+  "evidence": [],
+  "id": "DEMO-eee2a3278a",
+  "kind": "task",
+  "parent": "DEMO-527c0efac5",
+  "plan": "",
+  "priority": 2,
+  "project": "DEMO",
+  "prompt": "서로 다른 작업의 병합과 같은 작업의 충돌을 확인한다.",
+  "result": "",
+  "start_date": "2026-10-30",
+  "status": "backlog",
+  "title": "두 PC Git 동기화 실습",
+  "updated_at": "2026-10-26T14:13:01.947276+00:00",
+  "version": 2,
+  "weight": 1
+}

@@ -1,0 +1,10 @@
+# Linux / macOS: replace all paths and the actor before adding to your Codex config.
+# Default mode requires a clean Git checkout with an upstream and performs pull/commit/push.
+[mcp_servers.team_tasks]
+command = "python3"
+args = ["/absolute/path/task-manager/team_tasks.py", "--registry", "/absolute/path/team-work/registry", "--actor", "alice", "mcp"]
+
+# Windows alternative (use instead of the table above):
+# [mcp_servers.team_tasks]
+# command = "python"
+# args = ['C:\tools\task-manager\team_tasks.py', '--registry', 'C:\work\team-work\registry', '--actor', 'alice', 'mcp']
